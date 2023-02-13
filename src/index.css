@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.underline{
+  width:100px;
+  height: 1px;
+  background:#cf6219;
+  border:2px solid #cf6219;
+}
+.img_card{
+  width:80px;
+  height:150px;
+}
+.price{
+  color:#cf6219;
+  font-weight: bold;
+}
